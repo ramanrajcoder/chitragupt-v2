@@ -4,7 +4,7 @@
   "private": true,
   "description": "ChitRagupt - inventory, GST billing and accounting for small Indian shops (hosted edition)",
   "type": "module",
-  "engines": { "node": "20.x" },
+  "engines": { "node": "24.x" },
   "scripts": {
     "test": "node tests/api.test.mjs",
     "dev": "node tests/dev-server.mjs",
