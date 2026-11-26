@@ -8,5 +8,25 @@
     "code": "hi",
     "name": "हिंदी",
     "pill": "HI"
+  },
+  {
+    "code": "mr",
+    "name": "मराठी",
+    "pill": "MR"
+  },
+  {
+    "code": "gu",
+    "name": "ગુજરાતી",
+    "pill": "GU"
+  },
+  {
+    "code": "ta",
+    "name": "தமிழ்",
+    "pill": "TA"
+  },
+  {
+    "code": "bn",
+    "name": "বাংলা",
+    "pill": "BN"
   }
 ]
